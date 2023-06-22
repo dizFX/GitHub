@@ -1,5 +1,8 @@
 # Set-Key-individual-channel
 Addon for blender to set animation keys on individual animation F-curves, on the X or Y or Z or W axis.
+
+Thanks for helping us develop: yura987, Konstantin Coufal, Andrey Maslennikov.
+
 Demonstration of work:
 https://www.youtube.com/watch?v=883HmxQqQhs
 
