@@ -6,5 +6,5 @@ Thanks for helping us develop: yura987, Konstantin Coufal, Andrey Maslennikov.
 Demonstration of work:
 https://www.youtube.com/watch?v=883HmxQqQhs
 
-Version 0.0.3.06
+Version 0.1.0
 https://dizfx3d.gumroad.com/l/set_key_individual_channel
